@@ -62,6 +62,12 @@ Collects and displays employee information including names, positions, and hours
 
 ---
 
+## 🤝 Team Projects
+Several projects in this portfolio, such as **Clock In/Out Practice** and **Employee Info Practice**, were completed collaboratively as part of a group coursework assignment.  
+These experiences helped me strengthen my teamwork, communication, and version control skills while contributing to real-world logic design, data validation, and user interaction features.
+
+---
+
 ## 🎯 Key Learning Outcomes
 - Strengthened understanding of Java syntax and core logic  
 - Practiced building interactive and real-world problem-solving programs  
