@@ -9,10 +9,10 @@ public class ClockInOutPractice {
         // Create new objects and assign to each element of array
         EmployeeInfoPractice[] infoE = new EmployeeInfoPractice[4];
 
-        infoE[0] = new EmployeeInfoPractice("4026", "Daniela Alcocer Rojas", "7034394026", "server");
-        infoE[1] = new EmployeeInfoPractice("0067", "Tony Atiyeh", "2028030067", "server");
-        infoE[2] = new EmployeeInfoPractice("8145", "Sara Beshir", "7036408145", "server");
-        infoE[3] = new EmployeeInfoPractice("1234", "Lucie Li", "5678901234", "supervisor");
+        infoE[0] = new EmployeeInfoPractice("1111", "Daniela Alcocer Rojas", "1111111111", "server");
+        infoE[1] = new EmployeeInfoPractice("2222", "Tony Atiyeh", "2222222222", "server");
+        infoE[2] = new EmployeeInfoPractice("3333", "Sara Beshir", "3333333333", "server");
+        infoE[3] = new EmployeeInfoPractice("4444", "Lucie Li", "4444444444", "supervisor");
 
         // Display welcome message
         System.out.println("Welcome to the Employee Time Tracking System!");
